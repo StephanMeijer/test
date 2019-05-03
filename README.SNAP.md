@@ -6,7 +6,7 @@ Haskell. For more information or to download the latest version, you can visit
 the Snap project website at http://snapframework.com/.
 
 
-Snap Status and Features
+Snap Status and Featuresasd
 ------------------------
 
 The Snap core system consists of:
