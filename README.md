@@ -13,7 +13,7 @@ This is top-level project for the Snap Framework, which contains:
 
   * a library allowing Snap applications to recompile actions on the
     fly in development mode, with no performance loss in production
-    mode.
+    mode.dddd
 
   * a "snaplet" API allowing web applications to be build from composable
     pieces.
