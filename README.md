@@ -11,7 +11,7 @@ the Snap project website at http://www.snapframework.com/.
 
 This is top-level project for the Snap Framework, which contains:
 
-  * a library allowing Snap applications to recompile actions on the
+  * a library allowing Snap applications to recompile actions on thessss
     fly in development mode, with no performance loss in production
     mode.
 
@@ -23,7 +23,7 @@ be a part of this package. As of version 1.0, the snap command-line utility is
 no longer provided by this package.  It is now provided by the package
 [`snap-templates`](https://github.com/snapframework/snap-templates).
 
-Building snap
+Building snapssasdasd
 =============
 
 After you clone the repository, change to the newly created snap directory and
